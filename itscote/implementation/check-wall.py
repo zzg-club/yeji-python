@@ -1,4 +1,5 @@
 # 외벽 점검
+# https://school.programmers.co.kr/learn/courses/30/lessons/60062?language=python3
 
 from itertools import permutations
 
